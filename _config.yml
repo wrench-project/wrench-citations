@@ -1,0 +1,14 @@
+# Setup
+title:        WRENCH
+tagline:      Citations
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Rafael Ferreira da Silva
+  url:        http://rafaelsilva.com
+
+#Others
+markdown: kramdown

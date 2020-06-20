@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <title>WRENCH - Citations</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
+</head>
+<body>
+<div class="ui inverted bottom attached menu">
+    <div class="header item">
+        <img src="favicon.ico" style="width: 2em"/>
+        &nbsp;&nbsp;&nbsp;WRENCH
+        <span style="font-weight: normal; color: #999">&nbsp;Citations</span>
+    </div>
+</div>
+<div id="ui container" style="padding: 1em">
+    <table class="ui compact small striped celled table">
+        <thead>
+        <tr>
+            <th>Year</th>
+            <th>Type</th>
+            <th>Title</th>
+            <th>Authors</th>
+            <th>External Citation</th>
+            <th>Used WRENCH</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% assign citations = site.data.citations | sort: "year" | reverse %}
+        {% for n in citations %}
+        <tr>
+            <td data-label="year">{{n.year}}</td>
+            <td data-label="type">{{n.type}}</td>
+            <td data-label="title"><a href="{{n.url}}" target="_blank">{{n.title}}</a></td>
+            <td data-label="authors">{{n.authors}}</td>
+            <td data-label="self"><i class="{% unless n.self %}green check{% endunless %} icon"></i></td>
+            <td data-label="usage"><i class="{% if n.usage %}green check{% endif %} icon"></i></td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
