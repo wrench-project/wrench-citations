@@ -12,6 +12,3 @@ author:
 
 #Others
 markdown: kramdown
-
-plugins:
-  - jekyll-last-modified-at
