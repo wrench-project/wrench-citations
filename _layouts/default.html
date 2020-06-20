@@ -13,11 +13,17 @@
         &nbsp;&nbsp;&nbsp;WRENCH
         <span style="font-weight: normal; color: #999">&nbsp;Citations</span>
     </div>
+    <div class="right menu">
+        <div class="item" style="font-size: 0.8em; color: #999">
+            Last modified: {% last_modified_at %B %d, %Y %}
+        </div>
+    </div>
 </div>
 <div id="ui container" style="padding: 1em">
     <table class="ui compact small striped celled table">
         <thead>
         <tr>
+            <th></th>
             <th>Year</th>
             <th>Type</th>
             <th>Title</th>
@@ -28,8 +34,10 @@
         </thead>
         <tbody>
         {% assign citations = site.data.citations | sort: "year" | reverse %}
+        {% assign citation_count = citations | size %}
         {% for n in citations %}
         <tr>
+            <td data-label="row" style="color: #999">{{citation_count}}</td>
             <td data-label="year">{{n.year}}</td>
             <td data-label="type">{{n.type}}</td>
             <td data-label="title"><a href="{{n.url}}" target="_blank">{{n.title}}</a></td>
@@ -37,6 +45,7 @@
             <td data-label="self"><i class="{% unless n.self %}green check{% endunless %} icon"></i></td>
             <td data-label="usage"><i class="{% if n.usage %}green check{% endif %} icon"></i></td>
         </tr>
+        {% assign citation_count = citation_count | minus: 1 %}
         {% endfor %}
         </tbody>
     </table>
