@@ -1,5 +1,13 @@
 - year: 2020
   type: "Journal"
+  title: "A Workflow Scheduling Algorithm for Reducing Data Transfers in Cloud IaaS"
+  authors: "Gnimassoun, Jean Edgard and N'Takpe, Tchimou and Diedie, Gokou Herve Fabrice and Oumtanaga, Souleymane"
+  url: "https://dx.doi.org/10.14569/IJACSA.2020.0110534"
+  self: False
+  usage: True
+
+- year: 2020
+  type: "Journal"
   title: "Simplified Workflow Simulation on Clouds based on Computation and Communication Noisiness"
   authors: "Matha, Roland and Ristov, Sasko and Fahringer, Thomas and Prodan, Radu"
   url: "http://dx.doi.org/10.1109/TPDS.2020.2967662"
