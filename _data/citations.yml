@@ -1,4 +1,12 @@
 - year: 2020
+  type: "Master Thesis"
+  title: "Efficient Execution of Scientific Workflows on Batch-Scheduled Clusters"
+  authors: "Hataishi, Evan"
+  url: "https://scholarspace.manoa.hawaii.edu/bitstream/10125/68967/1/Hataishi_hawii_0085O_10585.pdf"
+  self: True
+  usage: True
+
+- year: 2020
   type: "Journal"
   title: "A Workflow Scheduling Algorithm for Reducing Data Transfers in Cloud IaaS"
   authors: "Gnimassoun, Jean Edgard and N'Takpe, Tchimou and Diedie, Gokou Herve Fabrice and Oumtanaga, Souleymane"
@@ -96,7 +104,7 @@
 
 - year: 2018
   type: "Report"
-  title: "Évaluation d’algorithmes d’ordonnancement par simulation réaliste"
+  title: "Évaluation d’algorithmes d’ordonnancement par simulation réaliste"
   authors: "Faure, Adrien and Poquet, Millian and Richard, Olivier"
   url: "https://hal.inria.fr/hal-01779936/document"
   self: False
