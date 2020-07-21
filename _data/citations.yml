@@ -1,4 +1,12 @@
 - year: 2020
+  type: "Conference"
+  title: "Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers"
+  authors: "Pottier, Loic and Ferreira da Silva, Rafael and Casanova, Henri and Deelman, Ewa"
+  url: ""
+  self: True
+  usage: True
+
+- year: 2020
   type: "Master Thesis"
   title: "Efficient Execution of Scientific Workflows on Batch-Scheduled Clusters"
   authors: "Hataishi, Evan"
