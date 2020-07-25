@@ -1,4 +1,12 @@
 - year: 2020
+  type: "PhD Thesis"
+  title: "Predictive Resource Management for Scientific Workflows"
+  authors: "Witt, Carl Philipp"
+  url: "https://edoc.hu-berlin.de/handle/18452/22342"
+  self: False
+  usage: False
+
+- year: 2020
   type: "Conference"
   title: "Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers"
   authors: "Pottier, Loic and Ferreira da Silva, Rafael and Casanova, Henri and Deelman, Ewa"
