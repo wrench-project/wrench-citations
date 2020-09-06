@@ -1,4 +1,12 @@
 - year: 2020
+  type: "Report"
+  title: "WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development - Technical Report"
+  authors: "Ferreira da Silva, Rafael and Pottier, Loic and Coleman, Taina and Deelman, Ewa and Casanova, Henri"
+  url: "https://arxiv.org/abs/2009.00250"
+  self: True
+  usage: True
+
+- year: 2020
   type: "PhD Thesis"
   title: "Predictive Resource Management for Scientific Workflows"
   authors: "Witt, Carl Philipp"
