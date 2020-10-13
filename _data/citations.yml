@@ -1,4 +1,12 @@
 - year: 2020
+  type: "Workshop"
+  title: "WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development"
+  authors: "Ferreira da Silva, Rafael and Pottier, Loic and Coleman, Taina and Deelman, Ewa and Casanova, Henri"
+  url: ""
+  self: True
+  usage: True
+
+- year: 2020
   type: "Report"
   title: "WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development - Technical Report"
   authors: "Ferreira da Silva, Rafael and Pottier, Loic and Coleman, Taina and Deelman, Ewa and Casanova, Henri"
