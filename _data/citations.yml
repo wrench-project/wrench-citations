@@ -1,5 +1,13 @@
 - year: 2020
   type: "Workshop"
+  title: "Peachy Parallel Assignments (EduHPC 2020)"
+  authors: "Casanova, Henri and Ferreira da Silva, Rafael and Gonzalez-Escribano, Arturo and Koch, William and Torres, Yuri and Bunde, David P."
+  url: ""
+  self: True
+  usage: True
+
+- year: 2020
+  type: "Workshop"
   title: "WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development"
   authors: "Ferreira da Silva, Rafael and Pottier, Loic and Coleman, Taina and Deelman, Ewa and Casanova, Henri"
   url: ""
