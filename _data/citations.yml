@@ -2,7 +2,7 @@
   type: "Workshop"
   title: "Peachy Parallel Assignments (EduHPC 2020)"
   authors: "Casanova, Henri and Ferreira da Silva, Rafael and Gonzalez-Escribano, Arturo and Koch, William and Torres, Yuri and Bunde, David P."
-  url: ""
+  url: "http://dx.doi.org/10.1109/EduHPC51895.2020.00012"
   self: True
   usage: True
 
@@ -10,7 +10,7 @@
   type: "Workshop"
   title: "WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development"
   authors: "Ferreira da Silva, Rafael and Pottier, Loic and Coleman, Taina and Deelman, Ewa and Casanova, Henri"
-  url: ""
+  url: "http://dx.doi.org/10.1109/WORKS51914.2020.00012"
   self: True
   usage: True
 
@@ -34,7 +34,7 @@
   type: "Conference"
   title: "Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers"
   authors: "Pottier, Loic and Ferreira da Silva, Rafael and Casanova, Henri and Deelman, Ewa"
-  url: ""
+  url: "http://dx.doi.org/10.1109/CLUSTER49012.2020.00019"
   self: True
   usage: True
 
