@@ -1,5 +1,13 @@
 - year: 2020
   type: "Workshop"
+  title: "Integrating Machine Learning with HPC-driven Simulations for Enhanced Student Learning"
+  authors: "Jadhao, Vikram and Kadupitiya, JCS"
+  url: https://doi.org/10.1109/EduHPC51895.2020.00009
+  self: False
+  usage: False
+
+- year: 2020
+  type: "Workshop"
   title: "Peachy Parallel Assignments (EduHPC 2020)"
   authors: "Casanova, Henri and Ferreira da Silva, Rafael and Gonzalez-Escribano, Arturo and Koch, William and Torres, Yuri and Bunde, David P."
   url: "http://dx.doi.org/10.1109/EduHPC51895.2020.00012"
