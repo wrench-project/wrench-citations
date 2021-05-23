@@ -1,4 +1,20 @@
 - year: 2021
+  type: Journal
+  title: Teaching Parallel and Distributed Computing Concepts in Simulation with WRENCH
+  authors: Casanova, Henri and Tanaka, Ryan and Koch, William and Ferreira da Silva, Rafael
+  url: 
+  self: True
+  usage: True
+
+- year: 2021
+  type: Workshop
+  title: "GLUME: A Strategy for Reducing Workflow Execution Times on Batch-Scheduled Platforms"
+  authors: Hataishi, Evan and Dutot, Pierre-Francois and Ferreira da Silva, Rafael and Casanova, Henri
+  url: 
+  self: True
+  usage: True
+
+- year: 2021
   type: Conference
   title: Evaluating energy-aware scheduling algorithms for I/O-intensive scientific workflows
   authors: Coleman, Tainã and Casanova, Henri and Gwartney, Ty and Ferreira da Silva, Rafael
