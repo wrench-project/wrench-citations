@@ -1,8 +1,15 @@
 - year: 2021
+  type: Conference
+  authors: Coleman, Tainã and Casanova, Henri and Ferreira da Silva, Rafael
+  url: https://arxiv.org/abs/2105.00129
+  self: True
+  usage: True
+
+- year: 2021
   type: Journal
   title: Teaching Parallel and Distributed Computing Concepts in Simulation with WRENCH
   authors: Casanova, Henri and Tanaka, Ryan and Koch, William and Ferreira da Silva, Rafael
-  url: 
+  url: http://dx.doi.org/10.1016/j.jpdc.2021.05.009
   self: True
   usage: True
 
@@ -18,7 +25,7 @@
   type: Conference
   title: Evaluating energy-aware scheduling algorithms for I/O-intensive scientific workflows
   authors: Coleman, Tainã and Casanova, Henri and Gwartney, Ty and Ferreira da Silva, Rafael
-  url: 
+  url: http://dx.doi.org/10.1007/978-3-030-77961-0_16
   self: True
   usage: True
 
