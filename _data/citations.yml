@@ -1,5 +1,6 @@
 - year: 2021
   type: Conference
+  title: WfChef: Automated Generation of Accurate Scientific Workflow Generators
   authors: Coleman, Tainã and Casanova, Henri and Ferreira da Silva, Rafael
   url: https://arxiv.org/abs/2105.00129
   self: True
