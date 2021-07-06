@@ -1,5 +1,13 @@
 - year: 2021
   type: Conference
+  title: Modeling the Linux page cache for accurate simulation of data-intensive applications
+  authors: Do, Hoang-Dung and Hayot-Sasson, Valerie and Ferreira da Silva, Rafael and Steele, Christopher and Casanova, Henri and Glatard, Tristan
+  url: https://arxiv.org/abs/2101.01335
+  self: True
+  usage: True
+
+- year: 2021
+  type: Conference
   title: "WfChef: Automated Generation of Accurate Scientific Workflow Generators"
   authors: Coleman, Tainã and Casanova, Henri and Ferreira da Silva, Rafael
   url: https://arxiv.org/abs/2105.00129
