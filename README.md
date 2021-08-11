@@ -1,6 +1,6 @@
 # Citations for the WRENCH framework
 
-In this repository, we keep an YAML file (`citations.yml`), which contains a
+In this repository, we keep an YAML file (`_data/citations.yml`), which contains a
 list of references for the WRENCH framework (e.g., papers, articles, etc.).
 
 We collect references for the [WRENCH website](https://wrench-project.org) and
