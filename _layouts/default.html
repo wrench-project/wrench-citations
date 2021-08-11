@@ -45,7 +45,7 @@
             <td data-label="type">{{n.type}}</td>
             <td data-label="title"><a href="{{n.url}}" target="_blank">{{n.title}}</a></td>
             <td data-label="authors">{{n.authors}}</td>
-            <td data-label="self"><i class="{% unless n.self %}green check{% endunless %} icon"></i></td>
+            <td data-label="self"><i class="{% if n.self %}grey arrow alternate circle down{% else %}blue external square alternate{% endif %} icon"></i></td>
             <td data-label="usage"><i class="{% if n.usage %}green check{% endif %} icon"></i></td>
         </tr>
         {% assign citation_count = citation_count | minus: 1 %}
