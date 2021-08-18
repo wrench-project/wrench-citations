@@ -1,4 +1,12 @@
 - year: 2021
+  type: "Master Thesis
+  title: Modeling the Linux Page Cache for Accurate Simulation of Data-Intensive Applications
+  authors: Do, Hoang-Dung
+  url: https://spectrum.library.concordia.ca/988339/1/Do_MSC_S2021.pdf
+  self: False
+  usage: True
+
+- year: 2021
   type: "PhD Thesis"
   title: Modeling, Simulation, and Optimization of Variation-Aware Runtime-Reconfigurable Optical Interconnects
   authors: Wang, Yuyang
