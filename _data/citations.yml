@@ -1,5 +1,5 @@
 - year: 2021
-  type: "Master Thesis
+  type: Master Thesis
   title: Modeling the Linux Page Cache for Accurate Simulation of Data-Intensive Applications
   authors: Do, Hoang-Dung
   url: https://spectrum.library.concordia.ca/988339/1/Do_MSC_S2021.pdf
@@ -7,7 +7,7 @@
   usage: True
 
 - year: 2021
-  type: "PhD Thesis"
+  type: PhD Thesis
   title: Modeling, Simulation, and Optimization of Variation-Aware Runtime-Reconfigurable Optical Interconnects
   authors: Wang, Yuyang
   url: https://optoelectronics.ece.ucsb.edu/sites/default/files/2021-08/Dissertation_Yuyang_compressed-compressed.pdf
